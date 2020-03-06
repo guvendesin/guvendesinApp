@@ -8,8 +8,8 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  name: Güvendesin # REQUIRED - Enter your app name
+  ios_id: 1500150706 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
@@ -42,8 +42,12 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Güvende Kal # Optional
+marketing_desc: Deprem, yangın, sel, doğal afetler ve diğer tüm acil durumlarda ailenize, arkadaşlarınıza ve sevdiklerinize güvende olduğunuzu veya tehlikede olduğunuzu tek bir tuşla bildirin. Ayrıca uygulamada herhangi bir tehlike durumunda kullanabileceğiniz üç adet yardımcı buton bulunmaktadır bunlar sırasıyla;
+- Flaş butonu: Bu butonu kullanarak telefonunuzun flaşı kesikli olarak yanıp sönmesini sağlayarak yetkililerin yerinizi bulmasını sağlayabilirsiniz.
+- Zil butonu: Bu butonu kullanarak yüksek sesli ve dikkat çekici bir sesi kullanarak yardım ekiplerine sesinizi duyurabilirsiniz.
+- 112 butonu: Bu butonu kullanarak tek tuşla acil yardım isteyebilirsiniz.
+Uygulamayı kullanabilmek için konum erişimine izin verdikten sonra kişiler sekmesinden herhangi bir acil durumda güvende olup olmadığınızı iletmek istediğiniz kişi ya da kişileri ekleyin. Ardından acil durum sekmesinden 'Güvendeyim' ya da 'Güvende Değilim' seçeneklerini kullanarak önceden eklediğiniz kişilere durumunuzu iletebilirsiniz. Şayet bunları kullanamayacak durumunuz olursa da üç adet kısayol butonu yetkililerin sizi daha kolay bulmasına yardımcı olacaktır. İçinde bulunduğunuz her türlü acil durumda kullanabileceğiniz Güvendesin uygulamasını umuyoruz ki hiçbir zaman kullanmak durumunda kalmazsınız.
 
 #
 # Social Links
